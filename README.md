@@ -64,6 +64,9 @@ ByteForce IT Solutions
 **Full-Stack Developer**  
 Freelancer.com
 
+**Frontend Web Developer**  
+Devsinc
+
 ---
 
 ## 🧩 Featured Projects
