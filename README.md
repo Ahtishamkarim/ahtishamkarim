@@ -49,7 +49,7 @@ A closer look at my work, selected projects, and what I can help you build.
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" />
+<img src="https://skillicons.dev/icons?i=git,github,docker" alt="Git, GitHub, Docker" />
 
 ---
 
