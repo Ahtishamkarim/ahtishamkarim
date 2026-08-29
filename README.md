@@ -45,8 +45,7 @@ A closer look at my work, selected projects, and what I can help you build.
 
 **CMS & E-commerce**
 
-<img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" />
-<img src="https://cdn.simpleicons.org/shopify/96BF48" height="48" alt="Shopify" />
+<img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" /> <img src="https://cdn.simpleicons.org/shopify/96BF48" height="48" alt="Shopify" />
 
 **Tools**
 
