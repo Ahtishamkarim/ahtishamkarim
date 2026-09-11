@@ -1,24 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6366F1,100:06B6D4&height=150&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:2563eb&height=220&section=header&text=Ahtisham%20Karim&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20MERN%20%2F%20Next.js%20%2F%20AI&descAlignY=58&descSize=18&descColor=60a5fa" width="100%"/>
 
-# Hi there, I'm Ahtisham Karim 👋
-### Software Engineer · Full-Stack Developer (MERN / Next.js)
-
-</div>
-
-<table>
-<tr>
-<td width="58%" valign="middle">
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Turning+ideas+into+production-ready+products&font=Fira+Code&center=false&width=480&height=40&color=6366F1&vCenter=true&size=20" alt="Typing SVG" />
-
-Building scalable web applications with React.js, Next.js, Node.js, NestJS, Express.js, PHP, MongoDB, MySQL & PostgreSQL.
-
-🧩 Full-stack development — front-end to deployment
-🌍 Comfortable collaborating with international clients
-⚡ Fast learner, quick to adapt to new stacks
-📫 Reach out anytime via the links below
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;Specializing+in+React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Architecting+AI-driven+SaaS+platforms;Turning+complex+ideas+into+production-ready+products&font=Fira+Code&center=true&width=700&height=40&color=38bdf8&vCenter=true&size=18" alt="Typing SVG" />
 
 <br/>
 
@@ -27,14 +11,7 @@ Building scalable web applications with React.js, Next.js, Node.js, NestJS, Expr
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahtisham.karim8391@gmail.com)
 [![Location](https://img.shields.io/badge/Lahore-Pakistan-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-</td>
-<td width="42%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -48,25 +25,25 @@ I'm a Software Engineer with hands-on experience building scalable web applicati
 <tr>
 <td width="25%" align="center">
 
-**🧩 End-to-End Development**
+**🧩 End-to-End Development**  
 Frontend, backend, database & deployment — I own the full stack
 
 </td>
 <td width="25%" align="center">
 
-**🌍 International Clients**
+**🌍 International Clients**  
 Comfortable collaborating remotely across time zones
 
 </td>
 <td width="25%" align="center">
 
-**⚡ Fast Learner**
+**⚡ Fast Learner**  
 Quick to pick up new stacks and ship with confidence
 
 </td>
 <td width="25%" align="center">
 
-**🎯 Deadline-Driven**
+**🎯 Deadline-Driven**  
 Focused on delivering quality work, on time
 
 </td>
@@ -91,6 +68,10 @@ Focused on delivering quality work, on time
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php" alt="Node.js, Express.js, NestJS, PHP" />
 
+**Artificial Intelligence**
+
+<a href="https://openai.com"><img src="https://cdn.simpleicons.org/openai/412991" height="48" alt="OpenAI" /></a> <a href="https://gemini.google.com"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="48" alt="Gemini" /></a> <a href="https://claude.ai"><img src="https://cdn.simpleicons.org/anthropic/D97757" height="48" alt="Claude" /></a>
+
 **Databases**
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="MongoDB, MySQL, PostgreSQL" />
@@ -103,33 +84,48 @@ Focused on delivering quality work, on time
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel" alt="Git, GitHub, Docker, Figma, Vercel" /> <a href="https://hostinger.com"><img src="https://cdn.simpleicons.org/hostinger/673DE6" height="48" alt="Hostinger" /></a>
 
----
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 💼 Professional Experience
 
-<table>
-<tr>
-<th>Role</th>
-<th>Company</th>
-</tr>
-<tr>
-<td>Full-Stack Developer</td>
-<td>GoodToGo</td>
-</tr>
-<tr>
-<td>Frontend Web Developer</td>
-<td>ByteForce IT Solutions</td>
-</tr>
-<tr>
-<td>Full-Stack Developer</td>
-<td>Freelancer.com</td>
-</tr>
-<tr>
-<td>Frontend Web Developer</td>
-<td>Devsinc</td>
-</tr>
+<table width="100%">
+  <tr>
+    <th align="left" width="30%">Role & Organization</th>
+    <th align="left" width="20%">Domain / Focus</th>
+    <th align="left" width="50%">Key Impact</th>
+  </tr>
+  <tr>
+    <td>
+      <b>Full-Stack Developer</b><br/>
+      <code>GoodToGo</code>
+    </td>
+    <td>Full-Stack Web Development</td>
+    <td>Architecting and maintaining scalable web applications end-to-end, integrating back-end services, and delivering custom digital tools.</td>
+  </tr>
+  <tr>
+    <td>
+      <b>Frontend Web Developer</b><br/>
+      <code>ByteForce IT Solutions</code>
+    </td>
+    <td>Frontend Architecture</td>
+    <td>Built high-performance, fully responsive user interfaces using React, Next.js, and modern CSS frameworks with optimized client state management.</td>
+  </tr>
+  <tr>
+    <td>
+      <b>Full-Stack Developer</b><br/>
+      <code>Freelancer.com</code>
+    </td>
+    <td>Contract & SaaS Engineering</td>
+    <td>Engineered custom web solutions, e-commerce platforms, and API integrations for global clients with strict deadline adherence.</td>
+  </tr>
+  <tr>
+    <td>
+      <b>Frontend Web Developer</b><br/>
+      <code>Devsinc</code>
+    </td>
+    <td>Web Application Development</td>
+    <td>Collaborated with cross-functional software teams to design, optimize, and ship pixel-perfect frontend codebases.</td>
+  </tr>
 </table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -185,15 +181,15 @@ A systems-driven digital growth agency focused on helping businesses scale with 
 <td width="50%" valign="top">
 
 ## 🎓 Education
-**BS Software Engineering**
-Lahore Garrison University
+**BS Software Engineering**  
+Lahore Garrison University  
 *10/2020 – 07/2024* · Lahore, Pakistan
 
 </td>
 <td width="50%" valign="top">
 
 ## 🌐 Languages
-Urdu — Native
+Urdu — Native  
 English — B2 (Independent User)
 
 </td>
@@ -210,6 +206,6 @@ English — B2 (Independent User)
 
 <sub>Thanks for stopping by! ⭐ this profile if you found something useful.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:0F172A&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea44f,100:2563EB&height=100&section=footer" width="100%"/>
 
 </div>
