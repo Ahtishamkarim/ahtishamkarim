@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:2563eb&height=220&section=header&text=Ahtisham%20Karim&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20MERN%20%2F%20Next.js%20%2F%20AI&descAlignY=58&descSize=18&descColor=60a5fa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:2563eb&height=220&section=header&text=Ahtisham%20Karim&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20MERN%20%2F%20Next.js&descAlignY=58&descSize=18&descColor=60a5fa" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;Specializing+in+React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Architecting+AI-driven+SaaS+platforms;Turning+complex+ideas+into+production-ready+products&font=Fira+Code&center=true&width=700&height=40&color=38bdf8&vCenter=true&size=18" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;Specializing+in+React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Turning+complex+ideas+into+production-ready+products&font=Fira+Code&center=true&width=700&height=40&color=38bdf8&vCenter=true&size=18" alt="Typing SVG" />
 
 <br/>
 
@@ -68,10 +68,6 @@ Focused on delivering quality work, on time
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php" alt="Node.js, Express.js, NestJS, PHP" />
 
-**Artificial Intelligence**
-
-<a href="https://openai.com"><img src="https://cdn.simpleicons.org/openai/412991" height="48" alt="OpenAI" /></a> <a href="https://gemini.google.com"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="48" alt="Gemini" /></a> <a href="https://claude.ai"><img src="https://cdn.simpleicons.org/anthropic/D97757" height="48" alt="Claude" /></a>
-
 **Databases**
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="MongoDB, MySQL, PostgreSQL" />
@@ -90,41 +86,24 @@ Focused on delivering quality work, on time
 
 <table width="100%">
   <tr>
-    <th align="left" width="30%">Role & Organization</th>
-    <th align="left" width="20%">Domain / Focus</th>
-    <th align="left" width="50%">Key Impact</th>
+    <th align="left" width="40%">Role</th>
+    <th align="left" width="60%">Company / Platform</th>
   </tr>
   <tr>
-    <td>
-      <b>Full-Stack Developer</b><br/>
-      <code>GoodToGo</code>
-    </td>
-    <td>Full-Stack Web Development</td>
-    <td>Architecting and maintaining scalable web applications end-to-end, integrating back-end services, and delivering custom digital tools.</td>
+    <td><b>Full-Stack Developer</b></td>
+    <td>GoodToGo</td>
   </tr>
   <tr>
-    <td>
-      <b>Frontend Web Developer</b><br/>
-      <code>ByteForce IT Solutions</code>
-    </td>
-    <td>Frontend Architecture</td>
-    <td>Built high-performance, fully responsive user interfaces using React, Next.js, and modern CSS frameworks with optimized client state management.</td>
+    <td><b>Frontend Web Developer</b></td>
+    <td>ByteForce IT Solutions</td>
   </tr>
   <tr>
-    <td>
-      <b>Full-Stack Developer</b><br/>
-      <code>Freelancer.com</code>
-    </td>
-    <td>Contract & SaaS Engineering</td>
-    <td>Engineered custom web solutions, e-commerce platforms, and API integrations for global clients with strict deadline adherence.</td>
+    <td><b>Full-Stack Developer</b></td>
+    <td>Freelancer.com</td>
   </tr>
   <tr>
-    <td>
-      <b>Frontend Web Developer</b><br/>
-      <code>Devsinc</code>
-    </td>
-    <td>Web Application Development</td>
-    <td>Collaborated with cross-functional software teams to design, optimize, and ship pixel-perfect frontend codebases.</td>
+    <td><b>Frontend Web Developer</b></td>
+    <td>Devsinc</td>
   </tr>
 </table>
 
@@ -176,36 +155,45 @@ A systems-driven digital growth agency focused on helping businesses scale with 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🎓 Education & 🌐 Languages
 
-## 🎓 Education
-**BS Software Engineering**  
-Lahore Garrison University  
-*10/2020 – 07/2024* · Lahore, Pakistan
-
-</td>
-<td width="50%" valign="top">
-
-## 🌐 Languages
-Urdu — Native  
-English — B2 (Independent User)
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <th align="left" width="60%">Degree & Institution</th>
+    <th align="left" width="40%">Languages</th>
+  </tr>
+  <tr>
+    <td>
+      <b>BS Software Engineering</b><br/>
+      Lahore Garrison University · <i>10/2020 – 07/2024</i> (Lahore, Pakistan)
+    </td>
+    <td>
+      • <b>Urdu:</b> Native<br/>
+      • <b>English:</b> B2 (Independent User)
+    </td>
+  </tr>
 </table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
 
-## 📫 Let's Connect
+## 🤝 Let's Connect & Collaborate
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahtisham-portfolio-2q7a.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahtisham-karim)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahtisham.karim8391@gmail.com)
+ open to new opportunities, freelance projects, and tech conversations.
 
-<sub>Thanks for stopping by! ⭐ this profile if you found something useful.</sub>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea44f,100:2563EB&height=100&section=footer" width="100%"/>
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahtisham-portfolio-2q7a.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahtisham-karim)
+[![Gmail](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahtisham.karim8391@gmail.com)
+
+<br/><br/>
+
+<sub>Designed & Built by <b>Ahtisham Karim</b> • Thanks for visiting! ⭐</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1f2937,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
