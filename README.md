@@ -1,8 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:2ea44f&height=200&section=header&text=Ahtisham%20Karim&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20(MERN%20%2F%20Next.js)&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6366F1,100:06B6D4&height=150&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Turning+ideas+into+production-ready+products&font=Fira+Code&center=true&width=650&height=40&color=2ea44f&vCenter=true&size=20" alt="Typing SVG" />
+# Hi there, I'm Ahtisham Karim 👋
+### Software Engineer · Full-Stack Developer (MERN / Next.js)
+
+</div>
+
+<table>
+<tr>
+<td width="58%" valign="middle">
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Turning+ideas+into+production-ready+products&font=Fira+Code&center=false&width=480&height=40&color=6366F1&vCenter=true&size=20" alt="Typing SVG" />
+
+Building scalable web applications with React.js, Next.js, Node.js, NestJS, Express.js, PHP, MongoDB, MySQL & PostgreSQL.
+
+🧩 Full-stack development — front-end to deployment
+🌍 Comfortable collaborating with international clients
+⚡ Fast learner, quick to adapt to new stacks
+📫 Reach out anytime via the links below
 
 <br/>
 
@@ -11,7 +27,14 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahtisham.karim8391@gmail.com)
 [![Location](https://img.shields.io/badge/Lahore-Pakistan-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-</div>
+</td>
+<td width="42%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -187,6 +210,6 @@ English — B2 (Independent User)
 
 <sub>Thanks for stopping by! ⭐ this profile if you found something useful.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea44f,100:2563EB&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:0F172A&height=100&section=footer" width="100%"/>
 
 </div>
