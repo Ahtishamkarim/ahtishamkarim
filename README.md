@@ -1,282 +1,199 @@
-<!-- =========================================================
-  GitHub Profile README — Ahtisham Karim
-  Replace YOUR_GITHUB_USERNAME with your real GitHub username
-  ========================================================= -->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,24&height=6" width="100%"/>
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:2563eb&height=220&section=header&text=Ahtisham%20Karim&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20MERN%20%2F%20Next.js&descAlignY=58&descSize=18&descColor=60a5fa" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;Specializing+in+React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Turning+complex+ideas+into+production-ready+products&font=Fira+Code&center=true&width=700&height=40&color=38bdf8&vCenter=true&size=18" alt="Typing SVG" />
 
 <br/>
 
-<div align="center">
-
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img
-      src="https://images.weserv.nl/?url=github.com/YOUR_GITHUB_USERNAME.png&w=160&h=160&fit=cover&mask=circle&border=4&bordercolor=0ea5e9"
-      width="120"
-      height="120"
-      alt="Ahtisham Karim"
-    />
-  </a>
-
-  <h1>Ahtisham Karim</h1>
-
-  <h3>Full-Stack Software Engineer</h3>
-
-  <p>
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=640&height=32&lines=I+build+scalable+web+products;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+NestJS;Idea+%E2%86%92+API+%E2%86%92+UI+%E2%86%92+Production"
-      alt="Typing animation"
-    />
-  </p>
-
-  <p>
-    <a href="https://ahtisham-portfolio-2q7a.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/ahtisham-karim">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    &nbsp;
-    <a href="mailto:ahtisham.karim8391@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    &nbsp;
-    <img src="https://img.shields.io/badge/Lahore%2C%20Pakistan-111827?style=flat&logo=googlemaps&logoColor=0ea5e9" alt="Location"/>
-  </p>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0ea5e9&style=flat" alt="Profile views"/>
-  </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahtisham-portfolio-2q7a.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahtisham-karim)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahtisham.karim8391@gmail.com)
+[![Location](https://img.shields.io/badge/Lahore-Pakistan-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🚀 About Me
+
+> Turning ideas into scalable, production-ready web applications — end to end.
+
+I'm a Software Engineer with hands-on experience building scalable web applications from the ground up: responsive front-end interfaces, robust back-end APIs, well-structured databases, and clean deployments. I enjoy solving real problems, collaborating with international clients, and shipping products that people actually use — with a strong focus on meeting goals and deadlines without cutting corners.
+
+<table width="100%">
+<tr>
+<td width="25%" align="center">
+
+**🧩 End-to-End Development**  
+Frontend, backend, database & deployment — I own the full stack
+
+</td>
+<td width="25%" align="center">
+
+**🌍 International Clients**  
+Comfortable collaborating remotely across time zones
+
+</td>
+<td width="25%" align="center">
+
+**⚡ Fast Learner**  
+Quick to pick up new stacks and ship with confidence
+
+</td>
+<td width="25%" align="center">
+
+**🎯 Deadline-Driven**  
+Focused on delivering quality work, on time
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,24&height=2" width="100%"/>
+
+**[🔗 View Full Portfolio](https://ahtisham-portfolio-2q7a.vercel.app/)**
+
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## About
+## 🛠️ Tech Stack
 
-Turning ideas into scalable, production-ready web applications — end to end.
+**Frontend**
 
-I design and ship full-stack products: responsive interfaces, reliable APIs, clean databases, and stable deployments. I work well with international clients, own features from planning to release, and care about meeting deadlines without sacrificing quality.
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" alt="HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript, React, Next.js" />
 
-<br/>
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php" alt="Node.js, Express.js, NestJS, PHP" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="MongoDB, MySQL, PostgreSQL" />
+
+**CMS & E-commerce**
+
+<img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" /> <a href="https://shopify.com"><img src="https://cdn.simpleicons.org/shopify/96BF48" height="48" alt="Shopify" /></a>
+
+**Tools & Hosting**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel" alt="Git, GitHub, Docker, Figma, Vercel" /> <a href="https://hostinger.com"><img src="https://cdn.simpleicons.org/hostinger/673DE6" height="48" alt="Hostinger" /></a>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 💼 Professional Experience
+
+<table width="100%">
+  <tr>
+    <th align="left" width="40%">Role</th>
+    <th align="left" width="60%">Company / Platform</th>
+  </tr>
+  <tr>
+    <td><b>Full-Stack Developer</b></td>
+    <td>GoodToGo</td>
+  </tr>
+  <tr>
+    <td><b>Frontend Web Developer</b></td>
+    <td>ByteForce IT Solutions</td>
+  </tr>
+  <tr>
+    <td><b>Full-Stack Developer</b></td>
+    <td>Freelancer.com</td>
+  </tr>
+  <tr>
+    <td><b>Frontend Web Developer</b></td>
+    <td>Devsinc</td>
+  </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🧩 Featured Projects
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 [ZhengHe](https://zh.com.sg)
+Connects job seekers and employers through a clear, well-organized hiring system, focusing on verified profiles, accurate job matching, and streamlined recruitment workflows.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 [CiteReady](https://tryciteready.com)
+An AI-powered website auditing platform scoring sites across access, extractability, trust, and citation — then probing live AI engines (ChatGPT, Perplexity, Gemini, Claude, Copilot, Grok) for real citation performance, with a prioritized action plan.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 [StrangerUs](https://strangerus.com)
+A next-generation social discovery platform enabling people to create genuine, meaningful connections in the real world, going beyond typical online interactions.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 [My Easy Junk Removal](https://myeasyjunkremoval.com)
+A nationwide junk removal marketplace for the US. Customers post jobs with photos/videos, and local providers respond with competitive quotes for same-day or next-day pickup.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 [Baqi Digital](https://baqidigital.com)
+A systems-driven digital growth agency focused on helping businesses scale with clarity, discipline, and measurable execution.
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🎓 Education & 🌐 Languages
+
+<table width="100%">
   <tr>
-    <td align="center" width="25%">
-      <br/>
-      <strong>End-to-End</strong><br/>
-      <sub>Frontend · Backend · DB · Deploy</sub>
-      <br/><br/>
+    <th align="left" width="60%">Degree & Institution</th>
+    <th align="left" width="40%">Languages</th>
+  </tr>
+  <tr>
+    <td>
+      <b>BS Software Engineering</b><br/>
+      Lahore Garrison University · <i>10/2020 – 07/2024</i> (Lahore, Pakistan)
     </td>
-    <td align="center" width="25%">
-      <br/>
-      <strong>Remote Collaboration</strong><br/>
-      <sub>Comfortable across time zones</sub>
-      <br/><br/>
-    </td>
-    <td align="center" width="25%">
-      <br/>
-      <strong>Fast Learner</strong><br/>
-      <sub>New stacks, shipped with confidence</sub>
-      <br/><br/>
-    </td>
-    <td align="center" width="25%">
-      <br/>
-      <strong>Deadline-Driven</strong><br/>
-      <sub>Quality delivered on schedule</sub>
-      <br/><br/>
+    <td>
+      • <b>Urdu:</b> Native<br/>
+      • <b>English:</b> B2 (Independent User)
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://ahtisham-portfolio-2q7a.vercel.app/"><strong>View full portfolio →</strong></a>
-</p>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,24&height=2" width="100%"/>
-</div>
-
-<br/>
-
-## Tech Stack
-
-<p align="center"><strong>Frontend</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs&perline=7" alt="Frontend"/>
-</p>
-
-<p align="center"><strong>Backend</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php&perline=4" alt="Backend"/>
-</p>
-
-<p align="center"><strong>Databases</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=3" alt="Databases"/>
-</p>
-
-<p align="center"><strong>Tools & Platforms</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel,wordpress&perline=6" alt="Tools"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/shopify/96BF48" height="40" alt="Shopify"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/hostinger/673DE6" height="40" alt="Hostinger"/>
-</p>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,24&height=2" width="100%"/>
-</div>
-
-<br/>
-
-## Experience
-
-| Role | Company |
-|:-----|:--------|
-| **Full-Stack Developer** | GoodToGo |
-| **Frontend Web Developer** | ByteForce IT Solutions |
-| **Full-Stack Developer** | Freelancer.com |
-| **Frontend Web Developer** | Devsinc |
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,24&height=2" width="100%"/>
-</div>
-
-<br/>
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://zh.com.sg">ZhengHe</a></h3>
-      Hiring platform connecting verified job seekers and employers with accurate matching and streamlined recruitment workflows.
-      <br/><br/>
-      <code>Next.js</code> · <code>Full-Stack</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://tryciteready.com">CiteReady</a></h3>
-      AI website auditing platform scoring access, extractability, trust & citation — then probing live AI engines for real citation performance.
-      <br/><br/>
-      <code>AI</code> · <code>SaaS</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://strangerus.com">StrangerUs</a></h3>
-      Social discovery platform built for genuine real-world connections — beyond typical online interactions.
-      <br/><br/>
-      <code>Social</code> · <code>Product</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://myeasyjunkremoval.com">My Easy Junk Removal</a></h3>
-      Nationwide US junk-removal marketplace where customers post jobs with media and local providers compete with fast quotes.
-      <br/><br/>
-      <code>Marketplace</code> · <code>MERN</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://baqidigital.com">Baqi Digital</a></h3>
-      Systems-driven digital growth agency helping businesses scale with clarity, discipline, and measurable execution.
-      <br/><br/>
-      <code>Agency</code> · <code>Growth</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://ahtisham-portfolio-2q7a.vercel.app/">More on Portfolio</a></h3>
-      Additional case studies, product work, and experiments.
-      <br/><br/>
-      <code>Case studies</code> · <a href="https://ahtisham-portfolio-2q7a.vercel.app/">View all →</a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,24&height=2" width="100%"/>
-</div>
-
-<br/>
-
-## Education & Languages
-
-| | |
-|:--|:--|
-| **BS Software Engineering** | **Languages** |
-| Lahore Garrison University | **Urdu** — Native |
-| *Oct 2020 – Jul 2024* · Lahore, Pakistan | **English** — B2 (Independent User) |
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,24&height=2" width="100%"/>
-</div>
-
-<br/>
-
-## GitHub Stats
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&ring_color=0ea5e9" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=c9d1d9" alt="Top Languages"/>
+## 🤝 Let's Connect & Collaborate
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,24&height=2" width="100%"/>
-</div>
+ open to new opportunities, freelance projects, and tech conversations.
 
 <br/>
 
-<div align="center">
-
-## Let's Connect
-
-Open to opportunities, freelance projects, and thoughtful tech conversations.
-
-<br/>
-
-<a href="https://ahtisham-portfolio-2q7a.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ahtisham-karim">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:ahtisham.karim8391@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahtisham-portfolio-2q7a.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahtisham-karim)
+[![Gmail](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahtisham.karim8391@gmail.com)
 
 <br/><br/>
 
-<sub>Designed & built by <b>Ahtisham Karim</b></sub>
+<sub>Designed & Built by <b>Ahtisham Karim</b> • Thanks for visiting! ⭐</sub>
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1f2937,100:0d1117&height=120&section=footer" width="100%"/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,24&height=6" width="100%"/>
 </div>
