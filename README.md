@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:361300&height=220&section=header&text=Ahtisham%20Karim&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20MERN%20%2F%20Next.js&descAlignY=58&descSize=18&descColor=d9a07a" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120600,50:361300,100:592200&height=220&section=header&text=Ahtisham%20Karim&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20MERN%20%2F%20Next.js&descAlignY=58&descSize=18&descColor=e0a98b" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;Specializing+in+React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Turning+complex+ideas+into+production-ready+products&font=Fira+Code&center=true&width=700&height=40&color=d9a07a&vCenter=true&size=18" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;Specializing+in+React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Turning+complex+ideas+into+production-ready+products&font=Fira+Code&center=true&width=700&height=40&color=d98e68&vCenter=true&size=18" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahtisham-portfolio-2q7a.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-361300?style=for-the-badge&logo=vercel&logoColor=white)](https://ahtisham-portfolio-2q7a.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahtisham-karim)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahtisham.karim8391@gmail.com)
-[![Location](https://img.shields.io/badge/Lahore-Pakistan-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Lahore-Pakistan-361300?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
@@ -115,13 +115,13 @@ Focused on delivering quality work, on time
 <tr>
 <td width="50%" valign="top">
 
-### 🔹 [ZhengHe](https://zh.com.sg)
+### 🔸 [ZhengHe](https://zh.com.sg)
 Connects job seekers and employers through a clear, well-organized hiring system, focusing on verified profiles, accurate job matching, and streamlined recruitment workflows.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔹 [CiteReady](https://tryciteready.com)
+### 🔸 [CiteReady](https://tryciteready.com)
 An AI-powered website auditing platform scoring sites across access, extractability, trust, and citation — then probing live AI engines (ChatGPT, Perplexity, Gemini, Claude, Copilot, Grok) for real citation performance, with a prioritized action plan.
 
 </td>
@@ -129,13 +129,13 @@ An AI-powered website auditing platform scoring sites across access, extractabil
 <tr>
 <td width="50%" valign="top">
 
-### 🔹 [StrangerUs](https://strangerus.com)
+### 🔸 [StrangerUs](https://strangerus.com)
 A next-generation social discovery platform enabling people to create genuine, meaningful connections in the real world, going beyond typical online interactions.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔹 [My Easy Junk Removal](https://myeasyjunkremoval.com)
+### 🔸 [My Easy Junk Removal](https://myeasyjunkremoval.com)
 A nationwide junk removal marketplace for the US. Customers post jobs with photos/videos, and local providers respond with competitive quotes for same-day or next-day pickup.
 
 </td>
@@ -143,7 +143,7 @@ A nationwide junk removal marketplace for the US. Customers post jobs with photo
 <tr>
 <td width="50%" valign="top">
 
-### 🔹 [Baqi Digital](https://baqidigital.com)
+### 🔸 [Baqi Digital](https://baqidigital.com)
 A systems-driven digital growth agency focused on helping businesses scale with clarity, discipline, and measurable execution.
 
 </td>
@@ -184,7 +184,7 @@ Open to new opportunities, freelance projects, and tech conversations.
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahtisham-portfolio-2q7a.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-361300?style=for-the-badge&logo=vercel&logoColor=white)](https://ahtisham-portfolio-2q7a.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/Connect_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahtisham-karim)
 [![Gmail](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahtisham.karim8391@gmail.com)
 
@@ -194,6 +194,6 @@ Open to new opportunities, freelance projects, and tech conversations.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:361300,50:1f2937,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:592200,50:361300,100:120600&height=120&section=footer" width="100%"/>
 
 </div>
