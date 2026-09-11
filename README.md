@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:2563eb&height=220&section=header&text=Ahtisham%20Karim&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20MERN%20%2F%20Next.js&descAlignY=58&descSize=18&descColor=60a5fa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:361300&height=220&section=header&text=Ahtisham%20Karim&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20MERN%20%2F%20Next.js&descAlignY=58&descSize=18&descColor=d9a07a" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;Specializing+in+React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Turning+complex+ideas+into+production-ready+products&font=Fira+Code&center=true&width=700&height=40&color=38bdf8&vCenter=true&size=18" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;Specializing+in+React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Turning+complex+ideas+into+production-ready+products&font=Fira+Code&center=true&width=700&height=40&color=d9a07a&vCenter=true&size=18" alt="Typing SVG" />
 
 <br/>
 
@@ -180,7 +180,7 @@ A systems-driven digital growth agency focused on helping businesses scale with 
 
 ## 🤝 Let's Connect & Collaborate
 
- open to new opportunities, freelance projects, and tech conversations.
+Open to new opportunities, freelance projects, and tech conversations.
 
 <br/>
 
@@ -194,6 +194,6 @@ A systems-driven digital growth agency focused on helping businesses scale with 
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1f2937,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:361300,50:1f2937,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
