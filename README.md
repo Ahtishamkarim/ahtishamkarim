@@ -17,29 +17,34 @@
 
 ## 🚀 About Me
 
-I'm a Software Engineer with hands-on experience building scalable web applications end-to-end — from responsive front-end interfaces to back-end APIs, databases, and deployment. I enjoy solving real problems, working with international clients, and shipping products that people actually use.
+> Turning ideas into scalable, production-ready web applications — end to end.
 
-<table>
+I'm a Software Engineer with hands-on experience building scalable web applications from the ground up: responsive front-end interfaces, robust back-end APIs, well-structured databases, and clean deployments. I enjoy solving real problems, collaborating with international clients, and shipping products that people actually use — with a strong focus on meeting goals and deadlines without cutting corners.
+
+<table width="100%">
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-### 🌍
-**International Clients**
-Delivered production apps for clients across multiple countries
-
-</td>
-<td width="33%" align="center">
-
-### ⚡
-**Fast Learner**
-Comfortable picking up new stacks and shipping quickly
+**🧩 End-to-End Development**
+Frontend, backend, database & deployment — I own the full stack
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-### 🎯
-**Goal-Oriented**
-Focused on meeting deadlines without cutting corners
+**🌍 International Clients**
+Comfortable collaborating remotely across time zones
+
+</td>
+<td width="25%" align="center">
+
+**⚡ Fast Learner**
+Quick to pick up new stacks and ship with confidence
+
+</td>
+<td width="25%" align="center">
+
+**🎯 Deadline-Driven**
+Focused on delivering quality work, on time
 
 </td>
 </tr>
@@ -77,16 +82,16 @@ Focused on meeting deadlines without cutting corners
 <tr>
 <td align="center"><b>AI & LLMs</b></td>
 <td>
-<img src="https://img.shields.io/badge/-%20-412991?style=for-the-badge&logo=openai&logoColor=white" height="48" alt="OpenAI"/>&nbsp;
-<img src="https://img.shields.io/badge/-%20-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" height="48" alt="Gemini"/>&nbsp;
-<img src="https://img.shields.io/badge/-%20-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="48" alt="Claude"/>
+<img src="assets/openai.svg" height="48" alt="OpenAI"/>&nbsp;
+<img src="assets/gemini.svg" height="48" alt="Google Gemini"/>&nbsp;
+<img src="assets/claude.svg" height="48" alt="Claude (Anthropic)"/>
 </td>
 </tr>
 <tr>
 <td align="center"><b>Tools</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel" alt="Git, GitHub, Docker, Figma, Vercel"/>&nbsp;
-<img src="https://img.shields.io/badge/-%20-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" height="48" alt="Hostinger"/>
+<img src="assets/hostinger.svg" height="48" alt="Hostinger"/>
 </td>
 </tr>
 </table>
