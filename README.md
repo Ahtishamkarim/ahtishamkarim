@@ -1,192 +1,253 @@
+<!-- =========================================================
+  GitHub Profile README — Ahtisham Karim
+  Replace YOUR_GITHUB_USERNAME with your real GitHub username
+  ========================================================= -->
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,100:38bdf8&height=240&section=header&text=Ahtisham%20Karim&fontSize=52&fontColor=f8fafc&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20MERN%20%2F%20Next.js%20%2F%20NestJS&descAlignY=56&descSize=16&descColor=94a3b8" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=720&height=36&lines=Building+scalable+web+applications;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;From+idea+%E2%86%92+production-ready+product" alt="Typing SVG" />
-
-<br/><br/>
-
-<a href="https://ahtisham-portfolio-2q7a.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/ahtisham-karim">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:ahtisham.karim8391@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Lahore%2C%20Pakistan-022c22?style=for-the-badge&logo=googlemaps&logoColor=4ade80" alt="Location"/>
-</a>
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,24&height=6" width="100%"/>
 </div>
-
----
-
-## About Me
-
-> Shipping scalable, production-ready web apps — frontend to deployment.
-
-Software Engineer focused on building products that people actually use: responsive UIs, solid APIs, clean data models, and reliable deploys. Comfortable working with international clients, owning features end-to-end, and delivering on time without cutting corners.
 
 <br/>
 
 <div align="center">
 
-| 🧩 End-to-End | 🌍 Remote-Ready | ⚡ Fast Learner | 🎯 Deadline-Driven |
-|:---:|:---:|:---:|:---:|
-| Frontend · Backend · DB · Deploy | Cross-timezone collaboration | New stacks, shipped with confidence | Quality delivered on schedule |
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img
+      src="https://images.weserv.nl/?url=github.com/YOUR_GITHUB_USERNAME.png&w=160&h=160&fit=cover&mask=circle&border=4&bordercolor=0ea5e9"
+      width="120"
+      height="120"
+      alt="Ahtisham Karim"
+    />
+  </a>
 
-<br/>
+  <h1>Ahtisham Karim</h1>
 
-<a href="https://ahtisham-portfolio-2q7a.vercel.app/">
-  <img src="https://img.shields.io/badge/%F0%9F%94%97%20View%20Full%20Portfolio-38bdf8?style=for-the-badge&labelColor=0f172a&color=38bdf8" alt="View Portfolio"/>
-</a>
+  <h3>Full-Stack Software Engineer</h3>
+
+  <p>
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=640&height=32&lines=I+build+scalable+web+products;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+NestJS;Idea+%E2%86%92+API+%E2%86%92+UI+%E2%86%92+Production"
+      alt="Typing animation"
+    />
+  </p>
+
+  <p>
+    <a href="https://ahtisham-portfolio-2q7a.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/ahtisham-karim">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    &nbsp;
+    <a href="mailto:ahtisham.karim8391@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Lahore%2C%20Pakistan-111827?style=flat&logo=googlemaps&logoColor=0ea5e9" alt="Location"/>
+  </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0ea5e9&style=flat" alt="Profile views"/>
+  </p>
 
 </div>
 
----
+<br/>
 
-## Tech Stack
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,24&height=2" width="100%"/>
+</div>
 
 <br/>
 
-<details open>
-<summary><b>Frontend</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs&theme=dark" alt="Frontend skills"/>
-</p>
-</details>
+## About
 
-<details open>
-<summary><b>Backend</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php&theme=dark" alt="Backend skills"/>
-</p>
-</details>
+Turning ideas into scalable, production-ready web applications — end to end.
 
-<details open>
-<summary><b>Databases</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="Database skills"/>
-</p>
-</details>
-
-<details open>
-<summary><b>CMS · E-commerce · Tools</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,git,github,docker,figma,vercel&theme=dark" alt="Tools"/>
-  &nbsp;
-  <a href="https://shopify.com"><img src="https://cdn.simpleicons.org/shopify/96BF48" height="48" alt="Shopify"/></a>
-  &nbsp;
-  <a href="https://hostinger.com"><img src="https://cdn.simpleicons.org/hostinger/673DE6" height="48" alt="Hostinger"/></a>
-</p>
-</details>
-
----
-
-## Professional Experience
-
-```text
-Full-Stack Developer ............... GoodToGo
-Frontend Web Developer ............. ByteForce IT Solutions
-Full-Stack Developer ............... Freelancer.com
-Frontend Web Developer ............. Devsinc
-```
-
----
-
-## Featured Projects
+I design and ship full-stack products: responsive interfaces, reliable APIs, clean databases, and stable deployments. I work well with international clients, own features from planning to release, and care about meeting deadlines without sacrificing quality.
 
 <br/>
 
 <table>
   <tr>
+    <td align="center" width="25%">
+      <br/>
+      <strong>End-to-End</strong><br/>
+      <sub>Frontend · Backend · DB · Deploy</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="25%">
+      <br/>
+      <strong>Remote Collaboration</strong><br/>
+      <sub>Comfortable across time zones</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="25%">
+      <br/>
+      <strong>Fast Learner</strong><br/>
+      <sub>New stacks, shipped with confidence</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="25%">
+      <br/>
+      <strong>Deadline-Driven</strong><br/>
+      <sub>Quality delivered on schedule</sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://ahtisham-portfolio-2q7a.vercel.app/"><strong>View full portfolio →</strong></a>
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,24&height=2" width="100%"/>
+</div>
+
+<br/>
+
+## Tech Stack
+
+<p align="center"><strong>Frontend</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs&perline=7" alt="Frontend"/>
+</p>
+
+<p align="center"><strong>Backend</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php&perline=4" alt="Backend"/>
+</p>
+
+<p align="center"><strong>Databases</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=3" alt="Databases"/>
+</p>
+
+<p align="center"><strong>Tools & Platforms</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel,wordpress&perline=6" alt="Tools"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/shopify/96BF48" height="40" alt="Shopify"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/hostinger/673DE6" height="40" alt="Hostinger"/>
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,24&height=2" width="100%"/>
+</div>
+
+<br/>
+
+## Experience
+
+| Role | Company |
+|:-----|:--------|
+| **Full-Stack Developer** | GoodToGo |
+| **Frontend Web Developer** | ByteForce IT Solutions |
+| **Full-Stack Developer** | Freelancer.com |
+| **Frontend Web Developer** | Devsinc |
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,24&height=2" width="100%"/>
+</div>
+
+<br/>
+
+## Featured Projects
+
+<table>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://zh.com.sg">ZhengHe</a></h3>
-      <p>
-        Hiring platform connecting verified job seekers and employers with accurate matching and streamlined recruitment workflows.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-        <img src="https://img.shields.io/badge/Full--Stack-0ea5e9?style=flat-square" alt="Full-Stack"/>
-      </p>
+      Hiring platform connecting verified job seekers and employers with accurate matching and streamlined recruitment workflows.
+      <br/><br/>
+      <code>Next.js</code> · <code>Full-Stack</code>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://tryciteready.com">CiteReady</a></h3>
-      <p>
-        AI website auditing platform that scores access, extractability, trust & citation — then probes live AI engines for real citation performance.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/AI-8b5cf6?style=flat-square" alt="AI"/>
-        <img src="https://img.shields.io/badge/SaaS-22c55e?style=flat-square" alt="SaaS"/>
-      </p>
+      AI website auditing platform scoring access, extractability, trust & citation — then probing live AI engines for real citation performance.
+      <br/><br/>
+      <code>AI</code> · <code>SaaS</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://strangerus.com">StrangerUs</a></h3>
-      <p>
-        Social discovery platform built for genuine real-world connections — beyond typical online interactions.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Social-f43f5e?style=flat-square" alt="Social"/>
-        <img src="https://img.shields.io/badge/Product-0ea5e9?style=flat-square" alt="Product"/>
-      </p>
+      Social discovery platform built for genuine real-world connections — beyond typical online interactions.
+      <br/><br/>
+      <code>Social</code> · <code>Product</code>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://myeasyjunkremoval.com">My Easy Junk Removal</a></h3>
-      <p>
-        Nationwide US junk-removal marketplace: customers post jobs with media; local providers compete with fast quotes.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Marketplace-f59e0b?style=flat-square" alt="Marketplace"/>
-        <img src="https://img.shields.io/badge/MERN-10b981?style=flat-square" alt="MERN"/>
-      </p>
+      Nationwide US junk-removal marketplace where customers post jobs with media and local providers compete with fast quotes.
+      <br/><br/>
+      <code>Marketplace</code> · <code>MERN</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://baqidigital.com">Baqi Digital</a></h3>
-      <p>
-        Systems-driven digital growth agency helping businesses scale with clarity, discipline, and measurable execution.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Agency-64748b?style=flat-square" alt="Agency"/>
-        <img src="https://img.shields.io/badge/Growth-38bdf8?style=flat-square" alt="Growth"/>
-      </p>
+      Systems-driven digital growth agency helping businesses scale with clarity, discipline, and measurable execution.
+      <br/><br/>
+      <code>Agency</code> · <code>Growth</code>
     </td>
     <td width="50%" valign="top">
-      <h3>More coming soon</h3>
-      <p>
-        Additional case studies and product work live on the portfolio.
-      </p>
-      <p>
-        <a href="https://ahtisham-portfolio-2q7a.vercel.app/">
-          <img src="https://img.shields.io/badge/See%20all%20projects-%E2%86%92-0f172a?style=flat-square&color=38bdf8" alt="Portfolio"/>
-        </a>
-      </p>
+      <h3><a href="https://ahtisham-portfolio-2q7a.vercel.app/">More on Portfolio</a></h3>
+      Additional case studies, product work, and experiments.
+      <br/><br/>
+      <code>Case studies</code> · <a href="https://ahtisham-portfolio-2q7a.vercel.app/">View all →</a>
     </td>
   </tr>
 </table>
 
----
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,24&height=2" width="100%"/>
+</div>
+
+<br/>
 
 ## Education & Languages
 
-| Degree & Institution | Languages |
-|:---|:---|
-| **BS Software Engineering**<br/>Lahore Garrison University · *10/2020 – 07/2024*<br/>Lahore, Pakistan | **Urdu** — Native<br/>**English** — B2 (Independent User) |
+| | |
+|:--|:--|
+| **BS Software Engineering** | **Languages** |
+| Lahore Garrison University | **Urdu** — Native |
+| *Oct 2020 – Jul 2024* · Lahore, Pakistan | **English** — B2 (Independent User) |
 
----
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,24&height=2" width="100%"/>
+</div>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&ring_color=0ea5e9" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=c9d1d9" alt="Top Languages"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,24&height=2" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -197,25 +258,25 @@ Open to opportunities, freelance projects, and thoughtful tech conversations.
 <br/>
 
 <a href="https://ahtisham-portfolio-2q7a.vercel.app/">
-  <img src="https://img.shields.io/badge/View%20Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/ahtisham-karim">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+&nbsp;
 <a href="mailto:ahtisham.karim8391@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=38bdf8" alt="Profile views"/>
+<sub>Designed & built by <b>Ahtisham Karim</b></sub>
 
-<br/><br/>
-
-<sub>Designed & built by <b>Ahtisham Karim</b> · Thanks for stopping by ⭐</sub>
+</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0f172a,100:020617&height=120&section=footer" width="100%"/>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,24&height=6" width="100%"/>
 </div>
