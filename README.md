@@ -12,18 +12,12 @@
 <br/>
 
 
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-361300?style=for-the-badge&logo=vercel&logoColor=white)](https://ahtisham-portfolio-2q7a.vercel.app/)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahtisham-karim)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahtisham.karim8391@gmail.com)
-
 [![Location](https://img.shields.io/badge/Lahore-Pakistan-361300?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-
-
-</div> 
+</div>> 
 
 
 
