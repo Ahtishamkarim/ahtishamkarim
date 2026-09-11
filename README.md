@@ -1,17 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120600,50:361300,100:592200&height=220&section=header&text=Ahtisham%20Karim&fontSize=48&fontColor=ffffff&fontFamily=Montserrat&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20MERN%20%2F%20Next.js&descAlignY=58&descSize=18&descColor=e0a98b" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;Specializing+in+React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Turning+complex+ideas+into+production-ready+products&font=Montserrat&center=true&width=780&height=30&color=d98e68&vCenter=true&size=20&duration=3000" alt="Typing SVG" style="margin-top: -15px;" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120600,50:361300,100:592200&height=220&section=header&text=Ahtisham%20Karim&fontSize=48&fontColor=ffffff&fontFamily=Auto&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20MERN%20%2F%20Next.js&descAlignY=58&descSize=18&descColor=e0a98b" width="100%"/>
+
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;Specializing+in+React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Turning+complex+ideas+into+production-ready+products&font=Montserrat&center=true&width=780&height=30&color=d98e68&vCenter=true&size=20&duration=4000" alt="Typing SVG" style="margin-top: -15px;" />
+
+
 
 <br/>
 
+
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-361300?style=for-the-badge&logo=vercel&logoColor=white)](https://ahtisham-portfolio-2q7a.vercel.app/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahtisham-karim)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahtisham.karim8391@gmail.com)
+
 [![Location](https://img.shields.io/badge/Lahore-Pakistan-361300?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-</div>
+
+
+</div> 
+
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
