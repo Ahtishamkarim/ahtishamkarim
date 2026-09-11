@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120600,50:361300,100:592200&height=220&section=header&text=Ahtisham%20Karim&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20MERN%20%2F%20Next.js&descAlignY=58&descSize=18&descColor=e0a98b" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;Specializing+in+React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Turning+complex+ideas+into+production-ready+products&font=Fira+Code&center=true&width=700&height=40&color=d98e68&vCenter=true&size=18" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;Specializing+in+React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Turning+complex+ideas+into+production-ready+products&font=Fira+Code&center=true&width=700&height=60&color=d98e68&vCenter=true&size=28" alt="Typing SVG" />
 
 <br/>
 
