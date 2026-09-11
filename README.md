@@ -100,3 +100,122 @@ Full-Stack Developer ............... GoodToGo
 Frontend Web Developer ............. ByteForce IT Solutions
 Full-Stack Developer ............... Freelancer.com
 Frontend Web Developer ............. Devsinc
+```
+
+---
+
+## Featured Projects
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://zh.com.sg">ZhengHe</a></h3>
+      <p>
+        Hiring platform connecting verified job seekers and employers with accurate matching and streamlined recruitment workflows.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/Full--Stack-0ea5e9?style=flat-square" alt="Full-Stack"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://tryciteready.com">CiteReady</a></h3>
+      <p>
+        AI website auditing platform that scores access, extractability, trust & citation — then probes live AI engines for real citation performance.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/AI-8b5cf6?style=flat-square" alt="AI"/>
+        <img src="https://img.shields.io/badge/SaaS-22c55e?style=flat-square" alt="SaaS"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://strangerus.com">StrangerUs</a></h3>
+      <p>
+        Social discovery platform built for genuine real-world connections — beyond typical online interactions.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Social-f43f5e?style=flat-square" alt="Social"/>
+        <img src="https://img.shields.io/badge/Product-0ea5e9?style=flat-square" alt="Product"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://myeasyjunkremoval.com">My Easy Junk Removal</a></h3>
+      <p>
+        Nationwide US junk-removal marketplace: customers post jobs with media; local providers compete with fast quotes.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Marketplace-f59e0b?style=flat-square" alt="Marketplace"/>
+        <img src="https://img.shields.io/badge/MERN-10b981?style=flat-square" alt="MERN"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://baqidigital.com">Baqi Digital</a></h3>
+      <p>
+        Systems-driven digital growth agency helping businesses scale with clarity, discipline, and measurable execution.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Agency-64748b?style=flat-square" alt="Agency"/>
+        <img src="https://img.shields.io/badge/Growth-38bdf8?style=flat-square" alt="Growth"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>More coming soon</h3>
+      <p>
+        Additional case studies and product work live on the portfolio.
+      </p>
+      <p>
+        <a href="https://ahtisham-portfolio-2q7a.vercel.app/">
+          <img src="https://img.shields.io/badge/See%20all%20projects-%E2%86%92-0f172a?style=flat-square&color=38bdf8" alt="Portfolio"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Education & Languages
+
+| Degree & Institution | Languages |
+|:---|:---|
+| **BS Software Engineering**<br/>Lahore Garrison University · *10/2020 – 07/2024*<br/>Lahore, Pakistan | **Urdu** — Native<br/>**English** — B2 (Independent User) |
+
+---
+
+<div align="center">
+
+## Let's Connect
+
+Open to opportunities, freelance projects, and thoughtful tech conversations.
+
+<br/>
+
+<a href="https://ahtisham-portfolio-2q7a.vercel.app/">
+  <img src="https://img.shields.io/badge/View%20Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/ahtisham-karim">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:ahtisham.karim8391@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=38bdf8" alt="Profile views"/>
+
+<br/><br/>
+
+<sub>Designed & built by <b>Ahtisham Karim</b> · Thanks for stopping by ⭐</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0f172a,100:020617&height=120&section=footer" width="100%"/>
+
+</div>
