@@ -41,7 +41,7 @@ A closer look at my work, selected projects, and what I can help you build.
 
 **Artificial Intelligence**
 
-<img src="https://skillicons.dev/icons?i=openai" alt="OpenAI" /> <a href="https://gemini.google.com"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="48" alt="Gemini" /></a> <a href="https://claude.ai"><img src="https://cdn.simpleicons.org/anthropic/D97757" height="48" alt="Claude" /></a>
+<a href="https://openai.com"><img src="https://cdn.simpleicons.org/openai/412991" height="48" alt="OpenAI" /></a> <a href="https://gemini.google.com"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="48" alt="Gemini" /></a> <a href="https://claude.ai"><img src="https://cdn.simpleicons.org/anthropic/D97757" height="48" alt="Claude" /></a>
 
 **Databases**
 
